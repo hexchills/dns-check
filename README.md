@@ -15,6 +15,6 @@ It can read .txt file with list of malicious domains and count if the attempt wa
 
 From my test: 
 
-- Quad9: 7 resolved from 300 domains
+- Quad9 (9.9.9.9 and 149.112.112.112): 7 resolved from 300 domains
 
 - 1.1.1.1 and Google DNS (8.8.8.8): 100 resolved from 300 domains
